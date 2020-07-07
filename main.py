@@ -11,3 +11,5 @@ for i in range(100):
 
 # Promene nakon ignorisanja .idea foldera
 print('This is a change after .idea ignoring.')
+
+# Komentar PRE resavanja merge conflict-a
