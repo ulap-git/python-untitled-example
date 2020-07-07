@@ -13,3 +13,6 @@ for i in range(100):
 print('This is a change after .idea ignoring.')
 
 # Komentar PRE resavanja merge conflict-a
+
+# Ovaj komentar je nakon kreiranja py2 foldera
+
