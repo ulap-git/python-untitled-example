@@ -11,3 +11,7 @@ for i in range(100):
 
 # Promene nakon ignorisanja .idea foldera
 print('This is a change after .idea ignoring.')
+
+
+# Ovaj komentar je nakon kreiranja py2 foldera
+
